@@ -20,7 +20,7 @@ sudo apt-get install git -y
 
 2. Download the repository with:
 ```
-git clone https://github.com/SensorsIot/IOTstack.git ~/IOTstack
+git clone https://github.com/innerha/IOTstack.git ~/IOTstack
 ```
 
 Due to some script restraints, this project needs to be stored in ~/IOTstack
