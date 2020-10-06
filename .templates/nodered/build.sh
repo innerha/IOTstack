@@ -28,6 +28,8 @@ node_selection=$(whiptail --title "Node-RED nodes" --checklist --separate-output
 	"node-red-contrib-esplogin" " " "OFF" \
 	"node-red-contrib-timeout" " " "OFF" \
 	"node-red-contrib-moment" " " "OFF" \
+	"node-red-contrib-modbus" " " "OFF" \
+	"node-red-contrib-opcua" " " "OFF" \
 	"node-red-contrib-particle" " " "OFF" \
 	"node-red-contrib-web-worldmap" " " "OFF" \
 	"node-red-contrib-ramp-thermostat" " " "OFF" \
